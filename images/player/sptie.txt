@@ -1,0 +1,19 @@
+sprite-next_curser{ background-position: 0 0; width: 82px; height: 83px; } 
+.sprite-next_normal{ background-position: 0 -103px; width: 82px; height: 83px; } 
+.sprite-pause_curser{ background-position: 0 -206px; width: 84px; height: 106px; } 
+.sprite-pause_normal{ background-position: 0 -332px; width: 84px; height: 106px; } 
+.sprite-play_curser{ background-position: 0 -458px; width: 84px; height: 106px; } 
+.sprite-play_normal{ background-position: 0 -584px; width: 84px; height: 106px; } 
+.sprite-pre_curser{ background-position: 0 -710px; width: 82px; height: 83px; } 
+.sprite-pre_normal{ background-position: 0 -813px; width: 82px; height: 83px; } 
+
+
+
+.sprite-next_curser{ background-position: 0 0; width: 80px; height: 80px; } 
+.sprite-next_normal{ background-position: 0 -100px; width: 80px; height: 80px; } 
+.sprite-pause_curser{ background-position: 0 -200px; width: 80px; height: 80px; } 
+.sprite-pause_normal{ background-position: 0 -300px; width: 80px; height: 80px; } 
+.sprite-play_curser{ background-position: 0 -400px; width: 80px; height: 80px; } 
+.sprite-play_normal{ background-position: 0 -500px; width: 80px; height: 80px; } 
+.sprite-pre_curser{ background-position: 0 -600px; width: 80px; height: 80px; } 
+.sprite-pre_normal{ background-position: 0 -700px; width: 80px; height: 80px; } 
